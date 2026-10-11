@@ -2,3 +2,5 @@ Proyecto presentado en el demo day grupal del bootcamp de análisis de datos de 
 Para esto, se utilizó Qlik Sense Desktop. En el .qvf se llevó a cabo la extracción y la transformación de los datos. Además, en la misma aplicación se realizó el dashboard compuesto por tres hojas. En la primera, es posible hacer una análisis exploratorio de la muestra, la segunda se centra en los mitos que se busca poner a prueba, mientras que la tercera permite al usuario combinar las distintas combinaciones posibles y observar como interactúan entre sí.
 Por otro lado, en el mismo .qvf la sección de Naracción / Storytelling agrupa los principales insights encontrados.
 Por último, se acompaña la documentación de respaldo (docs), que sirvió como complemento para el desarrollo del proyecto.
+
+Es posible es configurar la conexión en el editor de carga de datos y reemplazarla para poder ejecutar las secciones de extracción y de transformación. Sin embargo, la recomendación es guardar el .qvf en la carpeta local de Qlik (Documentos\Qlik\Sense\Apps). De esta forma se podrá navegar por el dashboard y la sección de Narración / Storytelling, sin necesidad de cargar los datos.
