@@ -1,1 +1,4 @@
-# Mitos-de-los-ACV
+Proyecto presentado en el demo day grupal del bootcamp de análisis de datos de Jupi Digital. Consiste en el desarrollo de una estrategia de storytelling a partir de un origen de datos que contiene 5110 historias clínicas (data), que se contrastaron con una serie de mitos relacionados a las causas de los ACV. El objetivo es determinar si estos cinco mitos se confirman o se derriban.
+Para esto, se utilizó Qlik Sense Desktop. En el .qvf se llevó a cabo la extracción y la transformación de los datos. Además, en la misma aplicación se realizó el dashboard compuesto por tres hojas. En la primera, es posible hacer una análisis exploratorio de la muestra, la segunda se centra en los mitos que se busca poner a prueba, mientras que la tercera permite al usuario combinar las distintas combinaciones posibles y observar como interactúan entre sí.
+Por otro lado, en el mismo .qvf la sección de Naracción / Storytelling agrupa los principales insights encontrados.
+Por último, se acompaña la documentación de respaldo (docs), que sirvió como complemento para el desarrollo del proyecto.
